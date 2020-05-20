@@ -26,7 +26,7 @@ Download from https://git-lfs.github.com/
 Next, clone the cachecash repo:
 
 ```bash
-git clone git@github.com:cachecashproject/go-cachecash.git "$(go env GOPATH)/src/github.com/cachecashproject/go-cachecash"
+git clone git@github.com:KevinSirius/GoCachecash.git "$(go env GOPATH)/src/github.com/cachecashproject/go-cachecash"
 ```
 
 And initialize git-lfs in that repo:
