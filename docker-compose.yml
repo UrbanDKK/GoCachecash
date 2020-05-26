@@ -31,7 +31,7 @@
       image: postgres:11
       environment:
       - POSTGRES_DB=kvstore
-      - POSTGRES_HOST_AUTH_METHOD=trust
+      //- POSTGRES_HOST_AUTH_METHOD=trust
   
     ledger:
       image: cachecash/go-cachecash
